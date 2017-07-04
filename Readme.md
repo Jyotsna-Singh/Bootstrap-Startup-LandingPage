@@ -3,7 +3,7 @@ Landing Page for a Startup. Built with Twitter Bootstrap
 
 ## Clone/Download
 
-`git clone https://github.com/Jyotsna-Singh/Bootstrap-Startup-LandingPage`
+`git clone https://github.com/Jyotsna-Singh/Bootstrap-Startup-LandingPage.git`
 
 
 ## Live Demo
